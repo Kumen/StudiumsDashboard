@@ -53,7 +53,7 @@ services:
 ### 1. Repository klonen und in das Verzeichnis wechseln
 
 ```bash
-git clone https://github.com/yourusername/studium-dashboard.git
+git clone https://github.com/Kumen/StudiumsDashboard.git
 cd studium-dashboard
 ```
 
@@ -102,7 +102,7 @@ Dies ist die empfohlene Standardmethode für die meisten Benutzer.
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/yourusername/studium-dashboard.git
+git clone https://github.com/Kumen/StudiumsDashboard.git
 cd studium-dashboard
 ```
 
@@ -148,7 +148,7 @@ Ein paar Vorteile
 ### 1. Repository klonen
 
 ```bash
-git clone https://github.com/yourusername/studium-dashboard.git
+git clone https://github.com/Kumen/StudiumsDashboard.git
 cd studium-dashboard
 ```
 
