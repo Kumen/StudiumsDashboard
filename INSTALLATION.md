@@ -54,7 +54,7 @@ services:
 
 ```bash
 git clone https://github.com/Kumen/StudiumsDashboard.git
-cd studium-dashboard
+cd StudiumsDashboard
 ```
 
 ### !!! Hinweis zu Docker Compose
@@ -103,7 +103,7 @@ Dies ist die empfohlene Standardmethode für die meisten Benutzer.
 
 ```bash
 git clone https://github.com/Kumen/StudiumsDashboard.git
-cd studium-dashboard
+cd StudiumsDashboard
 ```
 
 ### 2. Virtuelle Umgebung erstellen und aktivieren
@@ -149,7 +149,7 @@ Ein paar Vorteile
 
 ```bash
 git clone https://github.com/Kumen/StudiumsDashboard.git
-cd studium-dashboard
+cd StudiumsDashboard
 ```
 
 ### 2. Virtuelle Umgebung erstellen und aktivieren
